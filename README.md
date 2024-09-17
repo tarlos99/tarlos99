@@ -1,4 +1,11 @@
-## 
+Meu nome é enzo heymowski
+
+Estou estudando no CEP 
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato com meu professor Andre Lucas Guerreiro
+guerreiro.lucas.andre@escola.pr.gov.br
+
 
 <!--
 **tarlos99/tarlos99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
